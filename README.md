@@ -1,52 +1,59 @@
 # Sumant.github.io
 A Hotel General Manager with expertise on Revenue, Reputation, Team Management and many more. 
-# 👋 Hi, I'm [Your Name]
+# 🏨 Hello, I'm [Your Name]
 
-## 💼 Software Developer | [Your Role] | [Your Tech Stack]
+## 🎯 Hotel General Manager | Hospitality Leader | Guest Experience Expert
 
-Passionate about building impactful digital solutions and constantly learning new technologies. I specialize in [your specializations, e.g., full-stack development, UI/UX design, data science].
-
----
-
-## 🚀 Projects
-
-### 🔧 [Project Name]
-📝 Description: Briefly describe what the project does and its purpose.  
-💻 Tech Stack: `HTML` `CSS` `JavaScript` `React`  
-🔗 [View Project](https://yourprojectlink.com)  
-📂 [Source Code](https://github.com/yourusername/projectname)
+Experienced Hotel General Manager with over [X] years in the hospitality industry, specializing in operations management, guest satisfaction, staff development, and revenue growth. Proven track record of leading high-performing teams and delivering exceptional service in [luxury/budget/business] hotel environments.
 
 ---
 
-### 📊 [Another Project]
-📝 Description: Another cool project you've worked on.  
-🛠️ Built with: `Python` `Flask` `SQLAlchemy`  
-🔗 [Live Demo](https://linktodemo.com)  
-📂 [GitHub Repo](https://github.com/yourusername/projectname)
+## 📌 Key Highlights
+
+- 🛎️ Over [X] years managing 3 to 5-star hotel operations
+- 📈 Improved guest satisfaction scores by [XX]% over [time period]
+- 💰 Increased RevPAR by [XX]% YOY through strategic pricing and upselling
+- 🧠 Skilled in team training, SOP implementation, and cost control
+- 🌍 Experience managing hotels in [cities/countries]
 
 ---
 
-## 🧠 Skills
+## 🧠 Skills & Expertise
 
-- 💻 Languages: `JavaScript`, `Python`, `Java`
-- ⚙️ Frameworks/Libraries: `React`, `Node.js`, `Express`, `Django`
-- 🛢️ Databases: `MongoDB`, `PostgreSQL`
-- 🌐 Tools: `Git`, `Docker`, `VS Code`, `Figma`
-
----
-
-## 📫 Contact Me
-
-- ✉️ Email: [yourname@email.com]
-- 🔗 LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/yourname)
-- 🖥️ Portfolio Website: [yourusername.github.io](https://yourusername.github.io)
+- ✅ Operations Management  
+- ✅ Budgeting & Forecasting  
+- ✅ Guest Experience & Satisfaction  
+- ✅ Staff Leadership & Training  
+- ✅ Revenue Management (RevPAR, ADR)  
+- ✅ PMS Systems: `Opera`, `Cloudbeds`, `Hotelogix`  
+- ✅ Languages: `English`, `Spanish`, `French`
 
 ---
 
-## 📝 Blog Posts (Optional)
-- [How I Built My Portfolio Site](https://yourblog.com)
-- [Top 5 VS Code Extensions for Developers](https://yourblog.com)
+## 🏆 Achievements
+
+- 🥇 Awarded **[Hotel Chain] GM of the Year** – [Year]
+- 🌟 Maintained an average **Guest Review Score of 9.2+/10** on Booking.com
+- 💼 Successfully opened [Number] new hotel properties from the ground up
+- 🔄 Implemented green initiatives, reducing energy costs by [XX]% annually
 
 ---
 
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+## 📂 Portfolio / Documents
+
+- 📋 [Resume (PDF)](https://linktoyourresume.com)
+- 🧾 [Sample SOP – Front Office Operations](https://linktosop.com)
+- 📊 [Hotel Performance Report – Q2](https://linktoreport.com)
+- 📎 [Staff Training Module (PDF)](https://linktotrainingmodule.com)
+
+---
+
+## 📫 Let's Connect
+
+- 📧 Email: [youremail@domain.com]  
+- 🔗 LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/yourname)  
+- 🌍 Website/Portfolio: [yourusername.github.io](https://yourusername.github.io)
+
+---
+
+> *"Great hospitality is about creating memorable experiences – not just providing a room."*
