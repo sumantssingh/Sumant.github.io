@@ -1,20 +1,20 @@
 # Sumant.github.io
 A Hotel General Manager with expertise on Revenue, Reputation, Team Management and many more. 
-# 🏨 Hello, I'm [Your Name]
+# 🏨 Hello, I'm [Sumant Singh]
 
 ## 🎯 Hotel General Manager | Hospitality Leader | Guest Experience Expert
 
-Experienced Hotel General Manager with over [X] years in the hospitality industry, specializing in operations management, guest satisfaction, staff development, and revenue growth. Proven track record of leading high-performing teams and delivering exceptional service in [luxury/budget/business] hotel environments.
+Experienced Hotel General Manager with over [15+] years in the hospitality industry, specializing in operations management, guest satisfaction, staff development, and revenue growth. Proven track record of leading high-performing teams and delivering exceptional service in [luxury/budget/business] hotel environments.
 
 ---
 
 ## 📌 Key Highlights
 
-- 🛎️ Over [X] years managing 3 to 5-star hotel operations
-- 📈 Improved guest satisfaction scores by [XX]% over [time period]
-- 💰 Increased RevPAR by [XX]% YOY through strategic pricing and upselling
+- 🛎️ Over [15+] years managing Luxury 5-star hotel operations
+- 📈 Improved guest satisfaction scores by [20-40]% over [time period]
+- 💰 Increased RevPAR by [15-25]% YOY through strategic pricing and upselling
 - 🧠 Skilled in team training, SOP implementation, and cost control
-- 🌍 Experience managing hotels in [cities/countries]
+- 🌍 Experience managing hotels in [India, Africa and Thailand]
 
 ---
 
@@ -25,8 +25,8 @@ Experienced Hotel General Manager with over [X] years in the hospitality industr
 - ✅ Guest Experience & Satisfaction  
 - ✅ Staff Leadership & Training  
 - ✅ Revenue Management (RevPAR, ADR)  
-- ✅ PMS Systems: `Opera`, `Cloudbeds`, `Hotelogix`  
-- ✅ Languages: `English`, `Spanish`, `French`
+- ✅ PMS Systems: `Opera`, `IDS`, `HMS`  
+- ✅ Languages: `English`, `Hindi`, `Thai`
 
 ---
 
